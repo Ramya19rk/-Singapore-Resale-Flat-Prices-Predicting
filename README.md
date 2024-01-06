@@ -8,7 +8,7 @@ BATCH: DW75DW76
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_exciting-project-announcement-singapore-activity-7149269987692548096-JBgb?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
