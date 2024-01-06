@@ -41,3 +41,45 @@ The project involves the development of a machine learning model and the creatio
     from sklearn.model_selection import GridSearchCV
     import pickle
 
+# Domain
+
+The project is situated in the real estate domain, focusing on the resale market in Singapore. It addresses the challenges faced by individuals who seek to estimate the resale value of their flats.
+
+# Project Structure
+
+# Home:
+
+Overview: A brief introduction to the project's objectives and scope.
+
+Domain: Insights into the real estate domain in Singapore.
+
+Technology Used: Overview of the technologies and tools employed in the project.
+
+Images: Visuals showcasing key aspects of the project.
+
+<img width="1440" alt="Screenshot 2024-01-06 at 10 40 26 AM" src="https://github.com/Ramya19rk/-Singapore-Resale-Flat-Prices-Predicting/assets/145639838/1beb2233-04de-49df-b1e8-c8805ba8cc1a">
+
+
+# Resale Price:
+
+Form Structure: A user-friendly form containing input fields for street name, block number, floor area, lease commence date, and storey range.
+
+Predict Sales Price: Clicking this button triggers the machine learning model to predict the resale price based on the provided input.
+
+<img width="1440" alt="Screenshot 2024-01-06 at 10 40 37 AM" src="https://github.com/Ramya19rk/-Singapore-Resale-Flat-Prices-Predicting/assets/145639838/39498472-113b-4135-b4de-1a7d31854845">
+
+
+# Usage
+
+To use the web application:
+
+Select "Resale Price" from the menu.
+
+Fill in the required details in the form.
+
+Click the "Predict Sales Price" button.
+
+Obtain the predicted resale price for the flat in Singapore.
+
+
+
